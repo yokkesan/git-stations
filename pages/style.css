@@ -60,7 +60,6 @@ footer {
   margin-left: 10%;
 }
 
-<<<<<<< HEAD
 #drink-image {
   height: 45vh;
   width: 50%;
@@ -68,15 +67,6 @@ footer {
 }
 
 #drink-image > img {
-=======
-#food-image {
-  height: 45vh;
-  width: 40%;
-  text-align: center;
-}
-
-#food-image > img {
->>>>>>> feature/food-style
   height: 100%;
   border-radius: 50%;
 }
